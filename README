@@ -1,2 +1,25 @@
-Hi
- xc,nxnx xn
+# 📘 Cloud-Based ERP Predictive Analysis
+*A machine learning pipeline for predicting procurement contract values using cloud-based ERP datasets.*
+
+---
+
+## 📌 Project Overview
+
+This project focuses on developing a **predictive analytics pipeline** for cloud-based ERP procurement data.  
+The goal is to clean, transform, and model public tender data to predict procurement **contract values** using machine learning.
+
+This supports the dissertation research question:
+
+> **How can predictive analytics enhance performance and reliability in cloud-based ERP procurement systems?**
+
+The project includes:
+- Data cleaning & preprocessing  
+- Feature engineering  
+- Model-ready dataset creation  
+- Machine learning modelling  
+- GitHub-based version control  
+
+---
+
+## 📂 Repository Structure
+
